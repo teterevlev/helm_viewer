@@ -1,0 +1,20 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go
+.gopls.toml
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# OS
+.DS_Store
+Thumbs.db 
